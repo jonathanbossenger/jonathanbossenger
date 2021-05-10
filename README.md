@@ -9,6 +9,8 @@
 - 😄 Pronouns: he/him/them
 - ⚡ Fun fact: used to bake cakes for money
 
+⚠️ Recruiters: Don't contact me, I will ignore you ⚠️
+
 <!--
 **jonathanbossenger/jonathanbossenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
