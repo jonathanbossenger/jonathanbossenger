@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with all the things
 - 💬 Ask me about whatever you like, but I can't guarantee you'll like the answers
 - 📫 How to reach me: https://jonathanbossenger.com
-- 😄 Pronouns: he/him/them
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: used to bake cakes for money
 
 ⚠️ Recruiters: Don't contact me, I will ignore you ⚠️
