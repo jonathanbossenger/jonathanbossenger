@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🖊 I’m currently working at [Automattic](https://automattic.com/)
-- 🌱 I’m currently learning how people learn
+- 🌱 I’m currently learning Project Management
 - 👯 I’m looking to collaborate on anything WordPress or Laravel Related
-- 🤔 I’m looking for help with all the things
+- 🤔 I’m looking for help with building developer focused content for [Learn WordPress](https://learn.wordpress.org/)
 - 💬 Ask me about whatever you like, but I can't guarantee you'll like the answers
 - 📫 How to reach me: https://jonathanbossenger.com
 - 😄 Pronouns: he/him
