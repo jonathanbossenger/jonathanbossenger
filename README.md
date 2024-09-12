@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 🖊 I’m currently working at [Automattic](https://automattic.com/)
-- 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on anything web Related
+- 🌱 I’m currently trying to learn [Godot](https://godotengine.org/)
 - 🤔 I’m looking for help with building developer focused content for [Learn WordPress](https://learn.wordpress.org/)
 - 💬 Ask me about whatever you like, but I can't guarantee you'll like the answers
 - 📫 How to reach me: https://jonathanbossenger.com
